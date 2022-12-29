@@ -1,4 +1,4 @@
-# 💫 About Me:
+# Sobre mim:
 Full Cycle Developer<br>Systems Analysis and Development Academic<br><br>A technology lover inspired by curiosity.
 
 
