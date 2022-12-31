@@ -1,5 +1,5 @@
 # Sobre mim:
-Full Cycle Developer<br>Systems Analysis and Development Academic<br><br>.
+Apaixonado por desenvolvimento web e por poder impactar a vida das pessoas encontrando soluções modernas e resolvendo problemas através da tecnologia.
 
 
 ## 🌐 Socials:
