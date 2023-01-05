@@ -1,5 +1,5 @@
-# Sobre mim:
-Apaixonado por desenvolvimento web e por poder impactar a vida das pessoas encontrando soluções modernas e resolvendo problemas através da tecnologia...
+# About me:
+Passionate about web development and being able to impact people's lives by finding modern solutions and solving problems through technology...
 
 
 ## 🌐 Socials:
