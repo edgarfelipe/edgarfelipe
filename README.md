@@ -1,8 +1,6 @@
 ## Hi there I'm Felipe Fernandes
-### I'm a Full Cycle Engineer based in Brasilian
-Passionate about web development and being able to impact people's lives by finding modern solutions and solving problems through technology...
 
-Desenvolvedor de software OutSystems experiente com habilidades em análise de negócios, design de arquitetura, programação em JavaScript, HTML e CSS, além de metodologias ágeis de desenvolvimento de software. Experiência em projetos bem-sucedidos de desenvolvimento de software e excelentes habilidades de comunicação e gerenciamento de projetos
+Experienced OutSystems software developer with skills in business analysis, architectural design, programming in JavaScript, HTML and CSS, as well as agile software development methodologies. Experience in successful software development projects and excellent communication and project management skills
 
 
 
