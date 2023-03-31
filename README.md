@@ -2,11 +2,7 @@
 ### I'm a Full Cycle Engineer based in Brasilian
 Passionate about web development and being able to impact people's lives by finding modern solutions and solving problems through technology...
 
-- ⚙️ I use daily: `.ts`, `.html`, `.css`, `.Python`
-- 🌍 I'm mostly active within the **PYTHON Community**
-- ⚡️ Fun fact: I can't remember dates =P 
-- 🌱 Learning all about **Open Source**
-- 👨‍💻 Current project [PetMatch](https://github.com/edgarfelipe/PetMatch)
+Desenvolvedor de software OutSystems experiente com habilidades em análise de negócios, design de arquitetura, programação em JavaScript, HTML e CSS, além de metodologias ágeis de desenvolvimento de software. Experiência em projetos bem-sucedidos de desenvolvimento de software e excelentes habilidades de comunicação e gerenciamento de projetos
 
 
 
